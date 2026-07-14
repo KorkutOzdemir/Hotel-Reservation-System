@@ -43,6 +43,7 @@ pip install -r requirements.txt
 
 python main.py
 ```
+[HOTEL RESERVATION SYSTEM REPORT.pdf](https://github.com/user-attachments/files/30007409/HOTEL.RESERVATION.SYSTEM.REPORT.pdf)
 
 ## Course
 
